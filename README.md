@@ -3,5 +3,7 @@ Boston dataset is one of the datasets available in sklearn. You are given a Trai
 
 
   1.Code Gradient Descent for N features and come with predictions.
+  
   2.Try and test with various combinations of learning rates and number of iterations.
+  
   3.Try using Feature Scaling, and see if it helps you in getting better results.
